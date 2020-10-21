@@ -1,0 +1,10 @@
+C:\Users\theha\source\repos\ComPortTestSender\ComPortTestSender\bin\Debug\ComPortTestSender.exe.config
+C:\Users\theha\source\repos\ComPortTestSender\ComPortTestSender\bin\Debug\ComPortTestSender.exe
+C:\Users\theha\source\repos\ComPortTestSender\ComPortTestSender\bin\Debug\ComPortTestSender.pdb
+C:\Users\theha\source\repos\ComPortTestSender\ComPortTestSender\obj\Debug\ComPortTestSender.csprojAssemblyReference.cache
+C:\Users\theha\source\repos\ComPortTestSender\ComPortTestSender\obj\Debug\ComPortTestSender.Form1.resources
+C:\Users\theha\source\repos\ComPortTestSender\ComPortTestSender\obj\Debug\ComPortTestSender.Properties.Resources.resources
+C:\Users\theha\source\repos\ComPortTestSender\ComPortTestSender\obj\Debug\ComPortTestSender.csproj.GenerateResource.cache
+C:\Users\theha\source\repos\ComPortTestSender\ComPortTestSender\obj\Debug\ComPortTestSender.csproj.CoreCompileInputs.cache
+C:\Users\theha\source\repos\ComPortTestSender\ComPortTestSender\obj\Debug\ComPortTestSender.exe
+C:\Users\theha\source\repos\ComPortTestSender\ComPortTestSender\obj\Debug\ComPortTestSender.pdb
